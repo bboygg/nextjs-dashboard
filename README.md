@@ -6,3 +6,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 You Can Check how far I made at [here](https://nextjs-dashboard-omega-ten-25.vercel.app/).
+
+### Getting Started
+```shell
+$ npm run dev
+```
+
+
